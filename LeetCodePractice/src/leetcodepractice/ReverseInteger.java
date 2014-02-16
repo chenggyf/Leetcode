@@ -12,7 +12,8 @@ package leetcodepractice;
 public class ReverseInteger {
 
     /**
-     * @param args the command line arguments
+     * @param x
+     * @return 
      */
     public static int reverse(int x) {
         String xx = Integer.toString(x);
