@@ -33,5 +33,4 @@ public class ReverseInteger {
         // TODO code application logic here
         System.out.println(reverse(1000000003));
     }
-
 }
